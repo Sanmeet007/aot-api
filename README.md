@@ -1,2 +1,2 @@
 # aot-api
-Attack on Titan ( Shingeki no kyojin) Db API 
+Attack on Titan ( Shingeki no kyojin) API 
