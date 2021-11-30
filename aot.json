@@ -3,7 +3,7 @@
   "japanese-title": "Shingeki no Kyogin",
   "poster": "https://sanmeet007.github.io/aot-api/aot/main.jpg",
   "synopsis": "The Shingeki no Kyojin  is about the the animanga series 'Shingeki no Kyojin' (commonly known as 'Attack on Titan' Several hundred years ago, humans were nearly exterminated by titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest of titan. Flash forward to the present and the city has not seen a giant in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a colossal titan that appears out of thin air. As the smaller titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single titan and take revenge for all of mankind. Nominated for the 4th Manga Taisho Awards (2011) and won the Kodansha Manga Award shōnen category (2011). In English the series is roughly translated to 'Attack on Titan'.",
-  "trailer-links": ["https://youtu.be/LHtdKWJdif4",
+  "trailer-links": ["https://www.youtube.com/embed/LHtdKWJdif4",
     "https://youtu.be/KKzmOh4SuBc"],
   "start-date": "Apr 7, 2013 ",
   "end-date": "ongoing",
@@ -31,7 +31,7 @@
   },
   "seasons": {
     "season-1": {
-      "trailer-link" : "https://www.youtube.com/watch?v=MGRm4IzK1SQ",
+      "trailer-link" : "https://www.youtube.com/embed/MGRm4IzK1SQ",
       "title": "Attack on Titan",
       "japanese-title": "Shingeki no Kyojin ",
       "poster": "https://sanmeet007.github.io/aot-api/aot/aot-season-1.jpg",
@@ -477,7 +477,7 @@
         }}]
     },
     "season-2": {
-      "trailer-link" :"https://youtu.be/e8IthrzLP94",
+      "trailer-link" :"https://www.youtube.com/embed/e8IthrzLP94",
       "title": "Attack on Titan Season 2 ",
       "japanese-title": "Shingeki no Kyojin Season 2",
       "poster": "https://sanmeet007.github.io/aot-api/aot/aot-season-2.jpg",
@@ -708,7 +708,7 @@
         }}]
     },
     "season-3-part-1": {
-      "trailer-link" :"https://youtu.be/EHzBhrncmac",
+      "trailer-link" :"https://www.youtube.com/embed/EHzBhrncmac",
       "title": "Attack on Titan Season 3 part one",
       "japanese-title": "Shingeki no Kyojin Season 3 part one",
       "poster": "https://sanmeet007.github.io/aot-api/aot/aot-season-3-part-1.jpg",
@@ -928,7 +928,7 @@
         }}]
     },
     "season-3-part-2": {
-      "trailer-link" : "https://youtu.be/wcileyajPjU",
+      "trailer-link" : "https://www.youtube.com/embed/wcileyajPjU",
       "title": "Attack on Titan Season 3 part two",
       "japanese-title": "Shingeki no Kyojin Season 3 part two",
       "poster": "https://sanmeet007.github.io/aot-api/aot/aot-season-3-part-2.jpg",
@@ -1121,7 +1121,7 @@
         }}]
     },
     "season-4": {
-      "trailer-link": "https://youtu.be/SlNpRThS9t8",
+      "trailer-link": "https://www.youtube.com/embed/SlNpRThS9t8",
       "title": "Attack on Titan Season : The Final Season",
       "japanese-title": "Shingeki no Kyojin: The Final Season",
       "poster": "https://sanmeet007.github.io/aot-api/aot/aot-season-4.jpg",
