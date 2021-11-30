@@ -1411,6 +1411,7 @@
     }
   },
   "ovas": {
+    "serie" : "ova" ,
     "title":"Original video animation",
     "type" : "sub",
     "total-episodes":"8",
