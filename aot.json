@@ -1415,7 +1415,7 @@
     "type" : "sub",
     "total-episodes":"8",
     "poster":"https://sanmeet007.github.io/aot-api/aot/aot-ova.jpg",
-
+    "synopsis": "The original video animation (OVA) episodes are special episodes that were not aired during the original season but released alongside select volumes of the manga. So far, OVAs 1, 2, 4, and 5 have been officially released in English, included in the English special editions of Volumes 17 - 20",
     "episodes": [{
       "id": "1",
       "episode-number":"3.5",
