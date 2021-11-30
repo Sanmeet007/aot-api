@@ -31,6 +31,7 @@
   },
   "seasons": {
     "season-1": {
+      "trailer-link" : "https://www.youtube.com/watch?v=MGRm4IzK1SQ",
       "title": "Attack on Titan",
       "japanese-title": "Shingeki no Kyojin ",
       "poster": "https://sanmeet007.github.io/aot-api/aot/aot-season-1.jpg",
@@ -476,6 +477,7 @@
         }}]
     },
     "season-2": {
+      "trailer-link" :"https://youtu.be/e8IthrzLP94",
       "title": "Attack on Titan Season 2 ",
       "japanese-title": "Shingeki no Kyojin Season 2",
       "poster": "https://sanmeet007.github.io/aot-api/aot/aot-season-2.jpg",
@@ -706,6 +708,7 @@
         }}]
     },
     "season-3-part-1": {
+      "trailer-link" :"https://youtu.be/EHzBhrncmac",
       "title": "Attack on Titan Season 3 part one",
       "japanese-title": "Shingeki no Kyojin Season 3 part one",
       "poster": "https://sanmeet007.github.io/aot-api/aot/aot-season-3-part-1.jpg",
@@ -925,6 +928,7 @@
         }}]
     },
     "season-3-part-2": {
+      "trailer-link" : "https://youtu.be/wcileyajPjU",
       "title": "Attack on Titan Season 3 part two",
       "japanese-title": "Shingeki no Kyojin Season 3 part two",
       "poster": "https://sanmeet007.github.io/aot-api/aot/aot-season-3-part-2.jpg",
@@ -1117,6 +1121,7 @@
         }}]
     },
     "season-4": {
+      "trailer-link": "https://youtu.be/SlNpRThS9t8",
       "title": "Attack on Titan Season : The Final Season",
       "japanese-title": "Shingeki no Kyojin: The Final Season",
       "poster": "https://sanmeet007.github.io/aot-api/aot/aot-season-4.jpg",
