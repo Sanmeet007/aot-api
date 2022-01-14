@@ -1704,7 +1704,7 @@
           "download-url": "https://streamani.io/download?id=NzAxMzg=&title=Shingeki%21+Kyojin+Chuugakkou&typesub=SUB&sub=eyJlbiI6bnVsbCwiZXMiOm51bGx9&cover=aW1hZ2VzL3VwbG9hZC83NTQ2Ny5qcGc="
         }}]
     },
-    "specials": {
+    "picture-drama": {
       "title":"Attack on Titan Picture Drama",
       "japanese-title":"Shingeki no Kyojin: Chimi Kyara Gekijou - Tondeke! Kunren Heidan",
       "episode-duration":"11 min.",
@@ -1719,65 +1719,110 @@
       "episodes" : [{
         "id":"1",
         "episode-number":"1",
+        "title" : "Day 1/Day2",
+        "description": "Eren has trouble waking up on time. Armin finds himself waking up in the nurses office.",
+        "original-air-date" :"July 17, 2013",
         "thumbnail":"https://sanmeet007.github.io/aot-api/aot/aot-specials-ep-1.jpg",
-        "video-frame-src":"https://streamani.io/streaming.php?id=NDAzODE=&title=Shingeki+no+Kyojin+Specials&typesub=SUB&sub=&cover=aW1hZ2VzL3NoaW5nZWtpLW5vLWt5b2ppbi1zcGVjaWFscy5qcGc=",
-        "download-url":"https://streamani.io/download?id=NDAzODE=&title=Shingeki+no+Kyojin+Specials&typesub=SUB&sub=&cover=aW1hZ2VzL3NoaW5nZWtpLW5vLWt5b2ppbi1zcGVjaWFscy5qcGc="
-      },
+        "subbed": {
+          "video-frame-src":"https://streamani.io/streaming.php?id=NDAzODE=&title=Shingeki+no+Kyojin+Specials&typesub=SUB&sub=&cover=aW1hZ2VzL3NoaW5nZWtpLW5vLWt5b2ppbi1zcGVjaWFscy5qcGc=",
+          "download-url":"https://streamani.io/download?id=NDAzODE=&title=Shingeki+no+Kyojin+Specials&typesub=SUB&sub=&cover=aW1hZ2VzL3NoaW5nZWtpLW5vLWt5b2ppbi1zcGVjaWFscy5qcGc="
+         }    
+        },
         {
           "id":"2",
           "episode-number":"2",
+           "title" : "Day 3/Day 4",
+         "description": "Eren tries to make a strong impression on his instructor. Jean becomes jealous of Eren.",
+         "original-air-date" :"August 21, 2013",
           "thumbnail":"https://sanmeet007.github.io/aot-api/aot/aot-specials-ep-2.jpg",
-          "video-frame-src":"https://streamani.io/streaming.php?id=NDAzODM=&title=Shingeki+no+Kyojin+Specials&typesub=SUB&sub=&cover=aW1hZ2VzL3NoaW5nZWtpLW5vLWt5b2ppbi1zcGVjaWFscy5qcGc=",
-          "download-url":"https://streamani.io/download?id=NDAzODM=&title=Shingeki+no+Kyojin+Specials&typesub=SUB&sub=&cover=aW1hZ2VzL3NoaW5nZWtpLW5vLWt5b2ppbi1zcGVjaWFscy5qcGc="
-        },
+          "subbed" :{
+            "video-frame-src":"https://streamani.io/streaming.php?id=NDAzODM=&title=Shingeki+no+Kyojin+Specials&typesub=SUB&sub=&cover=aW1hZ2VzL3NoaW5nZWtpLW5vLWt5b2ppbi1zcGVjaWFscy5qcGc=",
+            "download-url":"https://streamani.io/download?id=NDAzODM=&title=Shingeki+no+Kyojin+Specials&typesub=SUB&sub=&cover=aW1hZ2VzL3NoaW5nZWtpLW5vLWt5b2ppbi1zcGVjaWFscy5qcGc="
+           }
+         },
         {
           "id":"3",
           "episode-number":"3",
+          "title" : "Day 5/Day 6/Day 7",
+          "description": "Sasha is accused of something she didn't do. Armin finds a suspicious book. Eren and Mikasa try to learn about a Titan's weakness.",
+          "original-air-date" :"September 18, 2013",
           "thumbnail":"https://sanmeet007.github.io/aot-api/aot/aot-specials-ep-3.jpg",
+  "subbed" :{
           "video-frame-src":"https://streamani.io/streaming.php?id=NDAzODQ=&title=Shingeki+no+Kyojin+Specials&typesub=SUB&sub=&cover=aW1hZ2VzL3NoaW5nZWtpLW5vLWt5b2ppbi1zcGVjaWFscy5qcGc=",
           "download-url":"https://streamani.io/download?id=NDAzODQ=&title=Shingeki+no+Kyojin+Specials&typesub=SUB&sub=&cover=aW1hZ2VzL3NoaW5nZWtpLW5vLWt5b2ppbi1zcGVjaWFscy5qcGc="
-        },
+  }     
+  },
         {
           "id":"4",
           "episode-number":"4",
+           "title" : "Day 8/Day 9/Day 10",
+          "description": "Eren unintentionally walks in on the girls. Mikasa challenges Ymir over pudding. Christa and Ymir choose a shopping buddy.",
+          "original-air-date" :"October 16, 2013",
           "thumbnail":"https://sanmeet007.github.io/aot-api/aot/aot-specials-ep-4.jpg",
+         "subbed":{
           "video-frame-src":"https://streamani.io/streaming.php?id=NDAzODU=&title=Shingeki+no+Kyojin+Specials&typesub=SUB&sub=&cover=aW1hZ2VzL3NoaW5nZWtpLW5vLWt5b2ppbi1zcGVjaWFscy5qcGc=",
           "download-url":"https://streamani.io/download?id=NDAzODU=&title=Shingeki+no+Kyojin+Specials&typesub=SUB&sub=&cover=aW1hZ2VzL3NoaW5nZWtpLW5vLWt5b2ppbi1zcGVjaWFscy5qcGc="
-        },
+         }
+         },
         {
           "id":"5",
           "episode-number":"5",
+           "title" : "Day 11/Day 12/Day 13",
+        "description": "Eren tries to imitate Reiner. Bertholdt tries to improve his confidence. Mikasa and Annie try to see who is stronger.",
+        "original-air-date" :"November 20, 2013",
           "thumbnail":"https://sanmeet007.github.io/aot-api/aot/aot-specials-ep-5.jpg",
+          "subbed":{
           "video-frame-src":"https://streamani.io/streaming.php?id=NDE1MTM=&title=Shingeki+no+Kyojin+Specials&typesub=SUB&sub=&cover=aW1hZ2VzL3NoaW5nZWtpLW5vLWt5b2ppbi1zcGVjaWFscy5qcGc=",
           "download-url":"https://streamani.io/download?id=NDE1MTM=&title=Shingeki+no+Kyojin+Specials&typesub=SUB&sub=&cover=aW1hZ2VzL3NoaW5nZWtpLW5vLWt5b2ppbi1zcGVjaWFscy5qcGc="
-        },
+          }
+          },
         {
           "id":"6",
           "episode-number":"6",
+           "title" : "Day 14/Day 15/Day 16",
+        "description": "Conny and Sasha try to get even. Eren decides on a new hairstyle. Armin tries to tutor Eren, Sasha, and Conny.",
+        "original-air-date" :"December 18, 2013",
           "thumbnail":"https://sanmeet007.github.io/aot-api/aot/aot-specials-ep-6.jpg",
+          "subbed":{
           "video-frame-src":"https://streamani.io/streaming.php?id=NDE1MTI=&title=Shingeki+no+Kyojin+Specials&typesub=SUB&sub=&cover=aW1hZ2VzL3NoaW5nZWtpLW5vLWt5b2ppbi1zcGVjaWFscy5qcGc=",
           "download-url":"https://streamani.io/download?id=NDE1MTI=&title=Shingeki+no+Kyojin+Specials&typesub=SUB&sub=&cover=aW1hZ2VzL3NoaW5nZWtpLW5vLWt5b2ppbi1zcGVjaWFscy5qcGc="
-        },
+          }
+          },
         {
           "id":"7",
           "episode-number":"7",
+           "title" : "Day 17/Day 18/ Day 19",
+        "description": "Eren struggles to use Vertical Equipment. Jean gets lost during training. Marco returns a lost bag.",
+        "original-air-date" :"January 15, 2014",
           "thumbnail":"https://sanmeet007.github.io/aot-api/aot/aot-specials-ep-7.jpg",
+         "subbed":{
           "video-frame-src":"https://streamani.io/streaming.php?id=NDI5MzM=&title=Shingeki+no+Kyojin+Specials&typesub=SUB&sub=&cover=aW1hZ2VzL3NoaW5nZWtpLW5vLWt5b2ppbi1zcGVjaWFscy5qcGc=",
           "download-url":"https://streamani.io/download?id=NDI5MzM=&title=Shingeki+no+Kyojin+Specials&typesub=SUB&sub=&cover=aW1hZ2VzL3NoaW5nZWtpLW5vLWt5b2ppbi1zcGVjaWFscy5qcGc="
-        },
+         }
+         },
         {
           "id":"8",
           "episode-number":"8",
+          "title" : "Day 20/Day 21/ Day 22",
+          "description": "Franz and Hanna help Eren make amends. Mikasa tries to act on her feelings. Hange tries to communicate with a Titan.",
+         "original-air-date" :"February 19, 2014",
           "thumbnail":"https://sanmeet007.github.io/aot-api/aot/aot-specials-ep-8.jpg",
+         "subbed":{
           "video-frame-src":"https://streamani.io/streaming.php?id=NDI5NDQ=&title=Shingeki+no+Kyojin+Specials&typesub=SUB&sub=&cover=aW1hZ2VzL3NoaW5nZWtpLW5vLWt5b2ppbi1zcGVjaWFscy5qcGc=",
           "download-url":"https://streamani.io/download?id=NDI5NDQ=&title=Shingeki+no+Kyojin+Specials&typesub=SUB&sub=&cover=aW1hZ2VzL3NoaW5nZWtpLW5vLWt5b2ppbi1zcGVjaWFscy5qcGc="
-        },
+         }
+         },
         {
           "id":"9",
           "thumbnail":"N/A",
+          "title":"Day 23/Day 24/Day 25",
+          "original-air-date": "March 19, 2014",
+          "description":"Erwin tries to make appeal to the cadets. Levi analyzes himself from another person's point of view. The 104th Cadet Corps' graduation ceremony begins."
           "episode-number":"9",
+         "subbed":{
           "video-frame-src":"N/A",
           "download-url":"N/A"
+        }
         }]
     }
   },
